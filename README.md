@@ -46,13 +46,13 @@ The dashboard provides insights into **new hires, active employees, separations,
 ## 📸 Dashboard Preview
 
 ## Project Overview
-![Project Overview](project_overview.png)
+![Project Overview](images/project_overview.png)
 
 ## Model View
-![Model View](model_view.png)
+![Model View](images/model_view.png)
 
 ## Calendar Table
-![Calendar Table](calendar_table.png)
+![Calendar Table](images/calendar_table.png)
 
 ---
 
